@@ -1,0 +1,16 @@
+p {
+  color: green;
+}
+
+header a:hover {
+  color: red;
+}
+
+header h1 {
+  font-size: 50px;
+}
+
+body > ul li {
+  display: inline-block;
+  border: solid 10px red;
+}
